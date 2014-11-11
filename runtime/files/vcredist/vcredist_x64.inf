@@ -1,0 +1,5 @@
+http://download.microsoft.com/download/E/A/5/EA5A3F64-0347-404B-8E26-3067207C8FA2/vcredist_x64.exe,VC2K5X64.EXE,/Q:A /R:N,Microsoft Visual C++ 2005 Service Pack 1 再頒布可能パッケージのセキュリティ更新プログラム （KB2538242） x64,3173272
+http://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe,VC2K8X64.EXE,/q /lang 1041,Microsoft Visual C++ 2008 Service Pack 1 蜀埼布可能パッケージのセキュリティ更新プログラム （KB2538243） x64,5207896
+http://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe,VC10X64.EXE,/q /norestart /lcid 1041,Microsoft Visual C++ 2010 Service Pack 1 蜀埼布可能パッケージのセキュリティ更新プログラム （KB2565063） x64,10274136
+http://download.microsoft.com/download/C/A/F/CAF5E118-4803-4D68-B6B5-A1772903D119/VSU4/vcredist_x64.exe,VC12X64.EXE,/quiet /norestart,Microsoft Visual C++ 2012 Update 4 蜀埼布可能パッケージ x64,7190856
+http://download.microsoft.com/download/C/6/D/C6DF4616-2D85-43AD-A4FF-C9DC1F94D026/vcredist_x64.exe,VC13X64.EXE,/quiet /norestart,Microsoft Visual C++ 2013 再頒布可能パッケージ x64,7190064
