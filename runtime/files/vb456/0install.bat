@@ -26,9 +26,7 @@ IF EXIST %copydir%\%DLLNAME% (
   echo %DLLNAME%はインストール済です （%SEQNO%）
 ) ELSE (
   echo %DLLNAME%をインストールしています （%SEQNO%）
-  echo copy %DLLNAME% %copydir%
   copy %DLLNAME% %copydir% >NUL 2>NUL
-rem >NUL 2>NUL
 )
 regsvr32 /s %copydir%\%DLLNAME%
 
